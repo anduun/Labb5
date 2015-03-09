@@ -5,4 +5,4 @@ package labb5;
  */
 public class swag {
 }
-1234 swag
+1234 swagfzzffzzffz
